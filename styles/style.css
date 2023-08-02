@@ -1,0 +1,25 @@
+/* Our Customaizations */
+
+/* carousel bg-img */
+
+.c-bg-img{
+    filter: brightness(40%);
+    max-height: 650px;
+    min-height: 400px;
+}
+
+/* working person  */
+.working-bg-color{
+    background-color: #F4FAFD;
+}
+
+/* common */
+.w-30{
+    width: 30%;
+}
+.w-95{
+    width: 95%;
+}
+.fa-star{
+    color: goldenrod;
+}
